@@ -32,7 +32,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " lsd
     Plug 'neovim/nvim-lspconfig'
     Plug 'hrsh7th/nvim-compe'
-    Plug 'neovim/nvim-lspinstall'
 
 
 call plug#end()
